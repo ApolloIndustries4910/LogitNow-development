@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">LogitNow - Logging Made Eassier</h1>
+<h1 align="center">LogitNow - Logging Made Easier</h1>
 
 <p align="center">LogitNow is a cross platform application that was created to make the lives of forest Loggers easy! The simplicity of the app makes it it user friendly for all ages.</p>
 
