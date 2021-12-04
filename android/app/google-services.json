@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "676781130451",
+    "project_id": "logitnow-82a97",
+    "storage_bucket": "logitnow-82a97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676781130451:android:30eb620eb3d38f5ce0ca26",
+        "android_client_info": {
+          "package_name": "com.logitnowapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676781130451-rrnkk9hq220h0vs3rml31i9ak1bj3rji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logitnowapp",
+            "certificate_hash": "3dd5c5f62a1516627bc6794f771c53e410bf8415"
+          }
+        },
+        {
+          "client_id": "676781130451-20kn1vi1gst2u6sun0npu95eobb0toag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0DdFkVgwUmuvmNJIPH1VN9A0wbWOmHt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676781130451-20kn1vi1gst2u6sun0npu95eobb0toag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "676781130451-jum4g3vol9fi2ad8bspkev45rg35k0dv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.logitnowapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

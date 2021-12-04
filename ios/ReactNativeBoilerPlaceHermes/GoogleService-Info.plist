@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>676781130451-jum4g3vol9fi2ad8bspkev45rg35k0dv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.676781130451-jum4g3vol9fi2ad8bspkev45rg35k0dv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>676781130451-rrnkk9hq220h0vs3rml31i9ak1bj3rji.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBeEoH8chQVMVizR6qyWwneKh_z6LvsaI8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>676781130451</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.logitnowapp</string>
+	<key>PROJECT_ID</key>
+	<string>logitnow-82a97</string>
+	<key>STORAGE_BUCKET</key>
+	<string>logitnow-82a97.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:676781130451:ios:f8d28411b1fae181e0ca26</string>
+</dict>
+</plist>
