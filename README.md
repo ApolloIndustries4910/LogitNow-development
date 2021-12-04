@@ -14,6 +14,8 @@
 
 <h1 align="center">Follow the steps below to run the project after you've set up your react-native development</h1>
 
+Click [here](https://reactnative.dev/docs/environment-setup) to set up your react-native environment
+
 
 1. Clone Master Branch
 2. Open terminal in project's root directory.
