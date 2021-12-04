@@ -1,4 +1,4 @@
-# LogitNow-development
+
 
 
 <h1 align="center">LogitNow - Logging Made Eassier</h1>
