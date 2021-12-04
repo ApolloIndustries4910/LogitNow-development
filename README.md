@@ -12,9 +12,13 @@
 - React Native
 - Yarn
 
-<h1 align="center">Follow the steps below to run the project after you've set up your react-native development</h1>
 
 Click [here](https://reactnative.dev/docs/environment-setup) to set up your react-native environment
+
+
+<h1 align="center">Follow the steps below to run the project after you've set up your react-native development</h1>
+
+
 
 
 1. Clone Master Branch
